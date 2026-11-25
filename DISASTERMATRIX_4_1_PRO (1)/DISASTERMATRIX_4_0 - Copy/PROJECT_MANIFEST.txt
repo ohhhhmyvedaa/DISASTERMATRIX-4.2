@@ -1,0 +1,3 @@
+DISASTERMATRIX 4.1 — City Intelligence Upgrade
+Includes official city hazard-source register, selected GCC drainage-intervention locations, City Hazard Atlas UI, IMD/NWIC/data.gov.in official data links, AI city context, and 12 unit tests.
+City-centre markers are locators only; official hazard maps remain linked to source documents. No fabricated ward/street flood coordinates.

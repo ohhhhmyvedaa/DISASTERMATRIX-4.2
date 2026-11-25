@@ -1,0 +1,12 @@
+city,year,rainfall_mm,period_or_context,geography,source,source_url,data_type
+Chennai,2021,2830,Annual rainfall,Chennai district,Tamil Nadu Climate Action Plan,https://tngcc.tn.gov.in/wp-content/uploads/2025/10/Chennai_Climate_Action_Plan_ENG_5d827c7dec_compressed.pdf,reported historical
+Chennai,1970-2000,1298,Average annual rainfall over period,Chennai district,Tamil Nadu Climate Action Plan,https://tngcc.tn.gov.in/wp-content/uploads/2025/10/Chennai_Climate_Action_Plan_ENG_5d827c7dec_compressed.pdf,reported climatology
+Puducherry,2021,2561.6,Annual rainfall,Puducherry region,Puducherry District Disaster Management Action Plan 2023,https://revenue.py.gov.in/downloads/dm/DM%20Action%20Plan%202023.pdf,reported historical
+Puducherry,2022,1267.0,Annual rainfall,Puducherry region,Puducherry District Disaster Management Action Plan 2023,https://revenue.py.gov.in/downloads/dm/DM%20Action%20Plan%202023.pdf,reported historical
+Tiruchirappalli,2023,761,Annual rainfall,Tiruchirappalli city,Trichy Climate Resilient City Action Plan,https://www.trichycorporation.gov.in/wh-assets/tccdetails/CAP.pdf,reported historical
+Tiruchirappalli,1901-2023,860.3,Average annual rainfall over period,Tiruchirappalli city,Trichy Climate Resilient City Action Plan,https://www.trichycorporation.gov.in/wh-assets/tccdetails/CAP.pdf,reported climatology
+Tiruchirappalli,2014,828.3,Annual rainfall,Tiruchirappalli district,MSME District Industrial Profile,https://msmedi-chennai.gov.in/GARMS_Admin/basictools/images/DIPSReport/Trichy.pdf,reported historical
+Tiruchirappalli,2015,864.4,Annual rainfall,Tiruchirappalli district,MSME District Industrial Profile,https://msmedi-chennai.gov.in/GARMS_Admin/basictools/images/DIPSReport/Trichy.pdf,reported historical
+Tiruchirappalli,2016,474.5,Annual rainfall,Tiruchirappalli district,MSME District Industrial Profile,https://msmedi-chennai.gov.in/GARMS_Admin/basictools/images/DIPSReport/Trichy.pdf,reported historical
+Tiruchirappalli,2017,689.9,Annual rainfall,Tiruchirappalli district,MSME District Industrial Profile,https://msmedi-chennai.gov.in/GARMS_Admin/basictools/images/DIPSReport/Trichy.pdf,reported historical
+Tiruchirappalli,2018,506.7,Annual rainfall,Tiruchirappalli district,MSME District Industrial Profile,https://msmedi-chennai.gov.in/GARMS_Admin/basictools/images/DIPSReport/Trichy.pdf,reported historical

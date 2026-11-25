@@ -1,0 +1,1 @@
+Historical city rainfall values and citations are in city_historical_rainfall.csv. The database is created automatically on first run. Do not add simulated values to the historical reference CSV.
